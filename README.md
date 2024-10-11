@@ -1,0 +1,2 @@
+# quanchengyunOA-UploadFile
+全程云OA接口UploadFile接口处存在任意文件上传漏洞批量检测脚本
